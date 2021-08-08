@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+  background-color: rgb(49, 45, 45);
+}
+
+.App-logo {
+  height: 7vh;
+  pointer-events: none;
+}
+
+.App-header {
+  padding: 2vh;
+  align-content: center;
+}
+
+.App-content{
+  margin: 3vh;
+  color: white;
+  text-align: start;
+}
+
+p {
+  font-size: small;
+}
+
+.Form-and-button, .toast{
+  text-align: center;
+}
+
+.App-footer {
+  padding: 2vh;
+  padding-bottom: 5vh;
+  color: white;
+  font-size: small;
+  background-color: rgb(49, 45, 45);
+}
+
+@media screen {
+  
+}
